@@ -1,8 +1,6 @@
-# NAME:         Nicholas Ngobi
+# NAME:          Nicholas Ngobi
 # ASSIGNMENT:   Project  Stacks & Queues
-
 from Queue import Queue
-
 # count the longest sequence of duplicates in a queue
 # can destroy the queue & make it empty
 def count_longest(q):
